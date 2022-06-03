@@ -1,0 +1,22 @@
+{
+  "name": "Vitali",
+  "age": 28,
+  "position": [
+    "Engineer 2 category",
+    "Java developer"
+  ],
+  "skills": [
+    "java",
+    "jaxb",
+    "JDBC",
+    "Hibernate",
+    "Gson",
+    "SQL",
+    "Git",
+    "Maven"
+  ],
+  "salary": {
+    "2022": 25000,
+    "2020": 20000
+  }
+}
